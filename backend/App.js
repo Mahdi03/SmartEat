@@ -16,3 +16,5 @@ app.use(
 app.listen(PORT, () => {
     console.log(`Success, listening on port: ${PORT}`);
 });
+
+var ex = "example";
