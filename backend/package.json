@@ -1,0 +1,11 @@
+{
+  "name": "SmartEat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "node App.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
